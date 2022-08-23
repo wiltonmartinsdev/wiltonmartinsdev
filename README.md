@@ -5,13 +5,13 @@
 
 
 # Current Stack
-- **Main Language:** `JavaScript` 
-- **Font-end:** `HTML5`, `CSS3`, `JavaScript`
-- **Back-end:** `Node.js`
-- **Layout Desing:** `Figma`  
-- **Version Code Control:** `Git & GitHub`
-- **Tools:** `VsCode`
-`
+- **⚡️ Main Language:** `JavaScript` 
+- **👨‍💻 Font-end:** `HTML5`, `CSS3`, `JavaScript`
+- **📡 Back-end:** `Node.js`
+- **🎨 Layout Desing:** `Figma`  
+- **📦 Version Code Control:** `Git & GitHub`
+- **🛠️ Tools:** `VSCode`
+
 # Contacts
 - Email: wiltonliramartins@gmail.com
 - Linkedin: https://www.linkedin.com/in/wiltonliramartins/
