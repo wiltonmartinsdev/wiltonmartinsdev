@@ -13,5 +13,5 @@
 - **🛠️ Tools:** `VSCode`
 
 # Contacts
-- Email: wiltonliramartins@outlook.com
+- Email: wiltonliramartins@gmail.com
 - Linkedin: https://www.linkedin.com/in/wiltonliramartins/
