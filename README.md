@@ -1,13 +1,13 @@
 # Hello, my name is Wilton Lira Martins 👋
 
 # About
-- I'm a Web Developer FullStack Jr
+- I'm a Developer FullStack Jr
 
 
 # Current Stack
 - **⚡️ Main Language:** `JavaScript` 
 - **👨‍💻 Font-end:** `HTML5`, `CSS3`, `JavaScript`, `React.js`
-- **📡 Back-end:** `Node.js`
+- **📡 Back-end:** `Node.js`, `Python`
 - **🎨 Layout Desing:** `Figma`  
 - **📦 Version Code Control:** `Git & GitHub`
 - **🛠️ Tools:** `VSCode`
