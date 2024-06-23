@@ -1,7 +1,7 @@
 # Hello, my name is Wilton Lira Martins 👋
 
 # About
-- I'm a Developer FullStack Jr
+- I'm a Developer Front-end Jr
 
 
 # Current Stack
