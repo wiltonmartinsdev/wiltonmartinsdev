@@ -5,7 +5,7 @@
 
 
 # Current Stack
-- **⚡️ Main Languages:** `JavaScript` 
+- **⚡️ Main Languages:** `JavaScript` e `Node.js`
 - **👨🏻‍💻 Front-end:** `HTML5`, `CSS3`, `JavaScript`, `TypeScript`, `React.js`
 - **👨🏻‍💻 Back-end** `Node.js`, `PostgreSQL`
 - **🎨 Layout Desing:** `Figma`  
